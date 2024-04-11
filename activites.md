@@ -1,17 +1,15 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+Je vous propose de prendre soin de votre vélo, ou de votre vélo à assistance électrique.
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+## Mes prestations
 
-## Nos activités
+A titre indicatif, voici quelques exemples de prestations (liste non-exhaustive) :
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- **Révision** soit _"sécurité"_ (comprendre "le nécessaire pour rouler en sécurité si le vélo ne nécessite pas de remplacement de pièce et de réglage complexe), soit _"annuelle"_ (entendez complète),
+- **Entretien / Réparation** des différents composants du vélo, à savoir les roues/pneus, freins, transmission, cadre/poste de pilotage,
+- **Montage** d’accessoires et équipements,
+- **Vente** d’accessoires et équipements pour le vélo et le pilote. 
