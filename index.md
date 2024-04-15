@@ -6,6 +6,7 @@ in_menu: true
 ![Logo Le Rayon Vert]({% link images/03-LogoLeRayonVert.png %}) 
 
 # soin du vélo à domicile
-(Saint-Brieuc Côtes d’Armor)
+
+Saint-Brieuc et environs
 
 _entretien – réparation - accessoires – location_ 
