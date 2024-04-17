@@ -9,4 +9,4 @@ in_menu: true
 
 Saint-Brieuc et environs
 
-_entretien – réparation - location - accessoires_ 
+_entretien - réparation - location - accessoires_ 
