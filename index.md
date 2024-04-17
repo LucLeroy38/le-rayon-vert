@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![Logo Le Rayon Vert]({% link images/031-LogoLeRayonVert.png %})
+![Logo Le Rayon Vert]({% link images/LogoLeRayonVertNB.gif %})
 
 # soin du vélo à domicile
 
