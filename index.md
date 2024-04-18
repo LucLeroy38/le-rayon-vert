@@ -3,7 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# soin du vélo à domicile
 ![Logo]({% link images/03-LogoLeRayonVertpourWeb.gif %})
-Saint-Brieuc et environs
+Soin du vélo à domicile à Saint-Brieuc et dans les environs
 _entretien - réparation - location - accessoires_ 
