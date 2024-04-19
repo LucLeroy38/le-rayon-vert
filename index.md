@@ -7,7 +7,7 @@ in_menu: true
 
 ## Soin du vélo à domicile à Saint-Brieuc et dans les environs
 
-**_entretien - réparation - location - accessoires_ **
+**_entretien - réparation - location - accessoires_**
 
 --- 
 
