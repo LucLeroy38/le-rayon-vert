@@ -11,7 +11,7 @@ in_menu: true
 
 --- 
 
-Je m'appelle Luc et suis Technicien Cycles option VAE. Autrement dit, je répare, entretiens, les vélos musculaires et à assistance électrique. 
+Je m'appelle Luc et suis technicien cycles avec une spécialisation en VAE. Autrement dit, je répare, entretiens, les vélos musculaires et à assistance électrique. 
 J'exerce ces activités à votre domicile, sur des marchés hebdomadaires ou dans mon atelier personnel.
 Je me déplace avec un véhicule utilitaire qui me permet de disposer d'un atelier mobile et des pièces, équipements de rechange et accessoires les plus courant.
 
